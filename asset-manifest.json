@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reeco_caw/static/css/main.c16f0ff2.css",
+    "main.js": "/reeco_caw/static/js/main.49a1a40c.js",
+    "static/js/787.94bc004f.chunk.js": "/reeco_caw/static/js/787.94bc004f.chunk.js",
+    "index.html": "/reeco_caw/index.html",
+    "main.c16f0ff2.css.map": "/reeco_caw/static/css/main.c16f0ff2.css.map",
+    "main.49a1a40c.js.map": "/reeco_caw/static/js/main.49a1a40c.js.map",
+    "787.94bc004f.chunk.js.map": "/reeco_caw/static/js/787.94bc004f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c16f0ff2.css",
+    "static/js/main.49a1a40c.js"
+  ]
+}
