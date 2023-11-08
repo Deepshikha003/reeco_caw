@@ -1,0 +1,40 @@
+{
+    "data": [
+        {
+            "productName": "Chicken ",
+            "brand": "Hormel black Labelmany",
+            "status": "Approved",
+            "price": 555
+        },
+        {
+            "productName": "aa sticks",
+            "brand": "sticky",
+            "status": "pending",
+            "price": 5664
+        },
+        {
+            "productName": "Mac & cheese",
+            "brand": " black",
+            "status": "Missing",
+            "price": 20
+        },
+        {
+            "productName": "Spinach chips",
+            "brand": "Cheese chips",
+            "status": "pending",
+            "price": 54
+        },
+        {
+            "productName": "Onion rings",
+            "brand": "stickblack",
+            "status": "pending",
+            "price": 77
+        },
+        {
+            "productName": "burger",
+            "brand": "black Labelmany",
+            "status": "pending",
+            "price": 69
+        }
+    ]
+}
